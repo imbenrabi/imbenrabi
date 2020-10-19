@@ -1,5 +1,5 @@
-<h1 align="center">
 <h3>Tools & Technologies</h3>
+<h1 align="center">
  <img src="./assets/react-icon.png" width="75"/>
  <img src="./assets/mobx-icon.png" width="75"/>
  <img src="./assets/webpack-icon.png" width="75"/>
