@@ -12,6 +12,7 @@
  <img src="./assets/sql-icon.png" width="85"/>
  <img src="./assets/python-icon.png" width="85"/>
  <img src="./assets/antdesign-icon.png" width="85"/>
- <img src="./assets/materialize-icon.png" width="85"/>
  <img src="./assets/materialui-icon.png" width="85"/>
+ <img src="./assets/materialize-icon.png" width="85"/>
+ <img src="./assets/jest-icon.png" width="85"/>
 </h1>
