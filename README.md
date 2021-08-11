@@ -13,7 +13,7 @@
 <!-- <a href="https://github.com/imbenrabi/imbenrabi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbenrabi&hide=css,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a> -->
-## 💼 Repositories:
+## 💼 Highlighted Projects
 
 <a href="https://github.com/imbenrabi/crm-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=crm-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
