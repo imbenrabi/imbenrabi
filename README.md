@@ -1,4 +1,5 @@
-<h3>Fullstack Developer & part time gamer</h3>
+<h2>Developer & part time Gamer</h2>
+
 <!-- <h3>Tools & Technologies</h3>
 <h1 align="center">
  <img src="./assets/css-trans-icon.png" width="90px" />
