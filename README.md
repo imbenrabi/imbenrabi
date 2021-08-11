@@ -4,15 +4,13 @@
  <img src="./assets/html-trans-icon.png" width="85"/>
  <img src="./assets/ts-trans-icon.png" width="85"/>
  <img src="./assets/js-trans-icon.png" width="85"/>
- <img src="./assets/node-trans-icon.png" width="85"/>
  <img src="./assets/react-trans-icon.png" width="85"/>
- <img src="./assets/vue-trans-icon.png" width="90"/>
+ <img src="./assets/vue-trans--icon.png" width="90"/>
  <img src="./assets/webpack-trans-icon.png" width="85"/>
  <img src="./assets/mobx-trans-icon.png" width="85"/>
  <img src="./assets/mongo-trans-icon.png" width="85"/>
- <img src="./assets/pupeteer-trans-icon.png" width="85"/>
  <img src="./assets/mysql-trans-icon.png" width="90"/>
- <img src="./assets/python-trans-icon.png" width="85"/>
+ <img src="./assets/pupeteer-trans-icon.png" width="85"/>
  <img src="./assets/antdesign-trans-icon.png" width="85"/>
  <img src="./assets/materialui-trans-icon.png" width="85"/>
  <img src="./assets/materialize-trans-icon.png" width="85"/>
