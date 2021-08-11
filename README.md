@@ -1,18 +1,20 @@
 <h3>Tools & Technologies</h3>
 <h1 align="center">
- <img src="./assets/css-icon.png" width="85"/>
- <img src="./assets/html-icon.png" width="85"/>
- <img src="./assets/ts-icon.png" width="85"/>
- <img src="./assets/js-icon.png" width="85"/>
- <img src="./assets/react-icon.png" width="85"/>
- <img src="./assets/nuxt-icon.png" width="90"/>
- <img src="./assets/webpack-icon.png" width="85"/>
- <img src="./assets/mobx-icon.png" width="85"/>
- <img src="./assets/mongo-icon.png" width="85"/>
- <img src="./assets/mysql-icon.png" width="90"/>
- <img src="./assets/python-icon.png" width="85"/>
- <img src="./assets/antdesign-icon.png" width="85"/>
- <img src="./assets/materialui-icon.png" width="85"/>
- <img src="./assets/materialize-icon.png" width="85"/>
- <img src="./assets/jest-icon.png" width="85"/>
+ <img src="./assets/css-trans-icon.png" width="85"/>
+ <img src="./assets/html-trans-icon.png" width="85"/>
+ <img src="./assets/ts-trans-icon.png" width="85"/>
+ <img src="./assets/js-trans-icon.png" width="85"/>
+ <img src="./assets/node-trans-icon.png" width="85"/>
+ <img src="./assets/react-trans-icon.png" width="85"/>
+ <img src="./assets/vue-trans-icon.png" width="90"/>
+ <img src="./assets/webpack-trans-icon.png" width="85"/>
+ <img src="./assets/mobx-trans-icon.png" width="85"/>
+ <img src="./assets/mongo-trans-icon.png" width="85"/>
+ <img src="./assets/pupeteer-trans-icon.png" width="85"/>
+ <img src="./assets/mysql-trans-icon.png" width="90"/>
+ <img src="./assets/python-trans-icon.png" width="85"/>
+ <img src="./assets/antdesign-trans-icon.png" width="85"/>
+ <img src="./assets/materialui-trans-icon.png" width="85"/>
+ <img src="./assets/materialize-trans-icon.png" width="85"/>
+ <img src="./assets/jest-trans-icon.png" width="85"/>
 </h1>
