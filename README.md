@@ -1,4 +1,4 @@
-## Hi! I'm Ben. 👋🤓
+## Hi! I'm Ben 👋🤓
 
 ## 🔧 Technologies & Tools
 
