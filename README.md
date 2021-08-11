@@ -1,4 +1,4 @@
-<h2>Developer & part time Gamer</h2>
+## Hi! I'm Ben. 👋🤓
 
 ## 🔧 Technologies & Tools
 
