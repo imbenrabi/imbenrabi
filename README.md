@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=cc85fb)
+![](https://img.shields.io/badge/Tools-Puppeteer-informational?style=flat&logo=puppeteer&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=cc85fb)
 
 <!-- <a href="https://github.com/imbenrabi/imbenrabi">
