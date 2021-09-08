@@ -7,11 +7,14 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=cc85fb)
+![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=cc85fb)
+![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=Nuxt.js&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Tools-Puppeteer-informational?style=flat&logo=puppeteer&logoColor=white&color=cc85fb)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=cc85fb)
 
 <!-- <a href="https://github.com/imbenrabi/imbenrabi">
