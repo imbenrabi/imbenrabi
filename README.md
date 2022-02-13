@@ -18,9 +18,9 @@
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=cc85fb)
 
-<!-- <a href="https://github.com/imbenrabi/imbenrabi">
+<a href="https://github.com/imbenrabi/imbenrabi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbenrabi&hide=css,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a> -->
+</a>
 ## 💼 Highlighted Projects
 
 <a href="https://github.com/imbenrabi/Rust-WASM-Webpack-Starter">
