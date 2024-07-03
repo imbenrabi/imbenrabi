@@ -1,4 +1,4 @@
-<>
+
 ## Hi! I'm Ben <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 [![Linkedin: imbenrabi](https://img.shields.io/badge/-imbenrabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ben-rabi-101/)](https://www.linkedin.com/in/ben-rabi-101/)
 
@@ -24,12 +24,11 @@
 
 ## 💼 Highlighted Projects
 
-<a href="https://github.com/imbenrabi/Rust-WASM-Webpack-Starter" style="width: 100%;">
+<a href="https://github.com/imbenrabi/Rust-WASM-Webpack-Starter" style="width: 100%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Rust-WASM-Webpack-Starter&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" />
 </a>
 <br/>
 <br/>
-<a href="https://github.com/imbenrabi/React-TS-ESLint-Webpack-Starter" style="width: 100%;">
+<a href="https://github.com/imbenrabi/React-TS-ESLint-Webpack-Starter" style="width: 100%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=React-TS-ESLint-Webpack-Starter&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" />
 </a>
-<>
