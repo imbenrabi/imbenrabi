@@ -24,16 +24,16 @@
 
 ## 💼 Highlighted Projects
 
-<a href="https://github.com/imbenrabi/Event-Driven-Architecture" style="width: 100%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Event-Driven-Architecture&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/imbenrabi/Rust-WASM-Webpack-Starter" style="width: 100%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Rust-WASM-Webpack-Starter&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/imbenrabi/React-TS-ESLint-Webpack-Starter" style="width: 100%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=React-TS-ESLint-Webpack-Starter&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" />
-</a>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <a href="https://github.com/imbenrabi/Event-Driven-Architecture" style="width: 48%;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Event-Driven-Architecture&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" />
+  </a>
+  <a href="https://github.com/imbenrabi/Rust-WASM-Webpack-Starter" style="width: 48%;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Rust-WASM-Webpack-Starter&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" />
+  </a>
+</div>
+<div style="display: flex; justify-content: center; margin-top: 16px;">
+  <a href="https://github.com/imbenrabi/React-TS-ESLint-Webpack-Starter" style="width: 48%;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=React-TS-ESLint-Webpack-Starter&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" />
+  </a>
+</div>
