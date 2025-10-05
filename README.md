@@ -26,49 +26,21 @@
 
 ## 💼 Highlighted Projects
 
-  <div
-    style="
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
-      max-width: 800px;
-      width: 100%;
-    "
-  >
-    <!-- ROW 1 -->
-    <div style="display: flex; gap: 16px; width: 100%; align-items: stretch;">
-    <a
-        href="https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server"
-        style="
-          flex: 1;
-          height: 139px;
-          box-sizing: border-box;
-          display: flex;
-        "
-      >
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Financial-Modeling-Prep-MCP-Server&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21"
-          alt="Financial-Modeling-Prep-MCP-Server"
-          style="width: 100%; height: 100%; object-fit: cover; display: block;"
-        />
-      </a>
-      <a
-        href="https://github.com/imbenrabi/Rust-WASM-Webpack-Starter"
-        style="
-          flex: 1;
-          height: 139px;
-          box-sizing: border-box;
-          display: flex;
-        "
-      >
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Rust-WASM-Webpack-Starter&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21"
-          alt="Rust-WASM-Webpack-Starter"
-          style="width: 100%; height: 100%; object-fit: cover; display: block;"
-        />
-      </a>
-    </div>
-  </div>
+  <!-- ROW 1 (GitHub-friendly side-by-side) -->
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Financial-Modeling-Prep-MCP-Server&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" alt="Financial-Modeling-Prep-MCP-Server" height="160" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/imbenrabi/Rust-WASM-Webpack-Starter">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Rust-WASM-Webpack-Starter&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" alt="Rust-WASM-Webpack-Starter" height="160" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 
 
