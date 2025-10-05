@@ -29,10 +29,10 @@
   <!-- ROW 1 (GitHub-friendly side-by-side, borderless) -->
   <p>
     <a href="https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Financial-Modeling-Prep-MCP-Server&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" alt="Financial-Modeling-Prep-MCP-Server" width="48%" height="160" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Financial-Modeling-Prep-MCP-Server&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" alt="Financial-Modeling-Prep-MCP-Server" width="48%" />
     </a>
     <a href="https://github.com/imbenrabi/Rust-WASM-Webpack-Starter">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Rust-WASM-Webpack-Starter&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" alt="Rust-WASM-Webpack-Starter" width="48%" height="160" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Rust-WASM-Webpack-Starter&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21" alt="Rust-WASM-Webpack-Starter" width="48%" />
     </a>
   </p>
 
