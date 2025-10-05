@@ -35,20 +35,21 @@
       width: 100%;
     "
   >
-    <div style="display: flex; gap: 16px; width: 100%;">
+    <!-- ROW 1 -->
+    <div style="display: flex; gap: 16px; width: 100%; align-items: stretch;">
     <a
         href="https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server"
         style="
           flex: 1;
           height: 139px;
           box-sizing: border-box;
-          display: block;
+          display: flex;
         "
       >
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Financial-Modeling-Prep-MCP-Server&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21"
           alt="Financial-Modeling-Prep-MCP-Server"
-          style="width: 48%; height: 48%; object-fit: cover;"
+          style="width: 100%; height: 100%; object-fit: cover; display: block;"
         />
       </a>
       <a
@@ -57,13 +58,13 @@
           flex: 1;
           height: 139px;
           box-sizing: border-box;
-          display: block;
+          display: flex;
         "
       >
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Rust-WASM-Webpack-Starter&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21"
           alt="Rust-WASM-Webpack-Starter"
-          style="width: 48%; height: 48%; object-fit: cover;"
+          style="width: 100%; height: 100%; object-fit: cover; display: block;"
         />
       </a>
     </div>
