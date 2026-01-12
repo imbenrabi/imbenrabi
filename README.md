@@ -23,22 +23,3 @@
 ![](https://img.shields.io/badge/Tools-Puppeteer-informational?style=flat&logo=puppeteer&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=cc85fb)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=cc85fb)
-
-## 💼 Highlighted Projects
-
-  <!-- ROW 1 (GitHub-friendly side-by-side, borderless) -->
-  <p>
-    <a href="https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Financial-Modeling-Prep-MCP-Server&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21&cache_seconds=1800" alt="Financial-Modeling-Prep-MCP-Server" width="48%" />
-    </a>
-    <a href="https://github.com/imbenrabi/Rust-WASM-Webpack-Starter">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=imbenrabi&repo=Rust-WASM-Webpack-Starter&title_color=ffffff&text_color=c9cacc&icon_color=cc85fb&bg_color=1d1f21&cache_seconds=1800" alt="Rust-WASM-Webpack-Starter" width="48%" />
-    </a>
-  </p>
-
-
-
-
-
-
-
